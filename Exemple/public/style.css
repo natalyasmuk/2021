@@ -1,6 +1,6 @@
 body {background: #dbb0a0;}
 ul{
-    background: #57394a;
+    background: #7e3d62;
     list-style: none;
     padding: 0;
 }
@@ -28,7 +28,7 @@ ul li ul li{
 }
 
 ul li ul li a{
-    color:#eab586;
+    color:#e2a269;
         text-decoration: none;
 
 }
